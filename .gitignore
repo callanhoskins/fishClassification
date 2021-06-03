@@ -2,3 +2,5 @@
 **.png
 **.gif
 .idea/**
+.Rproj.user
+plots/
